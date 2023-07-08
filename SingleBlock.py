@@ -3,6 +3,7 @@
 Created on Mon Feb 01 10:32:05 2021
 
 @author: Hubeyb Gurdogan
+         Guang Zeng
 """
 
 import numpy as np
